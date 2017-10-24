@@ -7,3 +7,6 @@ C:\Users\lyven\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Deb
 C:\Users\lyven\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\lyven\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\lyven\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\HocTap\LTWD-NC\test_giaodien\testGH\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\HocTap\LTWD-NC\test_giaodien\testGH\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\HocTap\LTWD-NC\test_giaodien\testGH\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

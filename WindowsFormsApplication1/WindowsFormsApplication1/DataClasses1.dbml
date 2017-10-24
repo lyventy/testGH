@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QL_LOGIN" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-9EM3H38\SQLEXPRESS;Initial Catalog=QL_LOGIN;Persist Security Info=True;User ID=sa" SettingsObjectName="WindowsFormsApplication1.Properties.Settings" SettingsPropertyName="QL_LOGINConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.loginuser" Member="loginusers">
+    <Type Name="loginuser">
+      <Column Name="user1" Type="System.String" DbType="Char(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="pass" Type="System.String" DbType="Char(30) NOT NULL" CanBeNull="false" />
+      <Column Name="hoatdong" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

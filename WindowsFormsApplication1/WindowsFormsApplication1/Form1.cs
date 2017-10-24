@@ -28,5 +28,12 @@ namespace WindowsFormsApplication1
             da.SubmitChanges();
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 frm = new Form2();
+            this.Hide();
+            frm.Show();
+        }
     }
 }
